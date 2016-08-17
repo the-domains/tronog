@@ -1,4 +1,3 @@
-layout_spectrum: 0.25712617323733866
 typography_spectrum: 0.11774505395442247
 color:
   brandStrength: 0.8655539955943823
@@ -6,9 +5,11 @@ color:
   saturation: 0.1877623819746077
   rhythmicContrast: 0.49744054465554655
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.25712617323733866
 name: tronog
+title: Studio Tronog
