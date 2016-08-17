@@ -1,0 +1,14 @@
+layout_spectrum: 0.25712617323733866
+typography_spectrum: 0.11774505395442247
+color:
+  brandStrength: 0.8655539955943823
+  lightness: 0.7104828387964517
+  saturation: 0.1877623819746077
+  rhythmicContrast: 0.49744054465554655
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: tronog
