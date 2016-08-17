@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tronog]]></title>
-        <description><![CDATA[tronog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Studio Tronog]]></title>
+        <description><![CDATA[Studio Tronog]]></description>
+        <link>https://thegrid.ai/tronog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 06:21:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 10:19:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tronog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Magic Leap, the World's Most Secretive Startup]]></title>
-            <description><![CDATA[<article><h1>The Untold Story of Magic Leap, the World's Most Secretive Startup</h1><p>T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c074a0d302be59dce473c720dd3426bf33ec9c32.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6f20f4-7d58-4f1b-974a-a04bd23b8b77.jpg" alt="Cloth simulation">]]></description>
             <link>http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">c619bc89-5fbb-4b92-bb3b-0f79bb74609e</guid>
-            <pubDate>Wed, 17 Aug 2016 06:21:50 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 10:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
